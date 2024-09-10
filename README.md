@@ -1,6 +1,6 @@
 # vue-sneakers
 
-Vue3, Vue Router, Tailwind, Vite, Axios, AutoAnimate, Lodash Debounce
+Vue3, Vue Router, Tailwind, Vite, Axios, AutoAnimate, Lodash Debounce, PHP
 
 ## Recommended IDE Setup
 
@@ -19,6 +19,7 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+php -S localhost:8000     
 npm run dev
 ```
 
