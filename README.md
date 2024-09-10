@@ -1,6 +1,6 @@
 # vue-sneakers
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue3, Vue Router, Tailwind, Vite, Axios, AutoAnimate, Lodash Debounce
 
 ## Recommended IDE Setup
 
