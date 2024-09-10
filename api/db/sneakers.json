@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+    "price": 1299,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Мужские Кроссовки Nike Air Max 270",
+    "price": 1560,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+    "price": 849,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Кроссовки Puma X Aka Boku Future Rider",
+    "price": 780,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Кроссовки Future Rider",
+    "price": 955,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Кроссовки Black Edition",
+    "price": 1699,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Кроссовки Orange Boomb Edition",
+    "price": 749,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Кроссовки Nike Air Max 270",
+    "price": 1560,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Кроссовки Nike Air Force 1",
+    "price": 590,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Кроссовки Adidas Ultraboost",
+    "price": 1150,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Кроссовки Puma Clyde All-Pro",
+    "price": 760,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Кроссовки Converse Chuck Taylor All-Star",
+    "price": 1300,
+    "imageUrl": "http://localhost:8000/api/sneakers/sneakers-12.jpg"
+  }
+]
